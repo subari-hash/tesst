@@ -7,3 +7,5 @@ https://cam4-hls.xcdnpro.com/320/cam4-origin-live/VanessaBoch-320-71a97510-70bc-
 https://cam4-hls.xcdnpro.com/282/cam4-origin-live/GlendaWilcinski-282-b230069b-f86d-49d0-a932-ddddc4e9e0c7_aac/chunklist.m3u8
 #EXTINF:-1, mode_bad
 https://edge11-gru.live.mmcdn.com/live-edge/amlst:mode_bad-sd-d9378beb9812f4d6f4899a9179c5c07a2b259d71036de69bd728a00dcb959e4f_trns_h264/chunklist_w1013805675_b10628000_t64RlBTOjYwLjA=.m3u8
+#EXTINF:-1, sayluna
+https://edge5-gru.live.mmcdn.com/live-edge/amlst:sayluna-sd-a0fbc9ec5a719070b1c9082609c167db8dfef772861ae79d09227cf942f4cdc9_trns_h264/chunklist_w2098391279_b5128000_t64RlBTOjMwLjA=.m3u8

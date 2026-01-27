@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1, Nicole
-https://cam4-hls.xcdnpro.com/281/cam4-origin-live/nycole_new-281-477a7481-a4a2-4663-8d01-87fa5248dee0_aac/chunklist.m3u8
-#EXTINF:-1, VanessaBoch
-https://cam4-hls.xcdnpro.com/320/cam4-origin-live/VanessaBoch-320-71a97510-70bc-4392-a58a-72faacc709b7_aac/chunklist.m3u8
-#EXTINF:-1, GlendaWilcinski
-https://cam4-hls.xcdnpro.com/282/cam4-origin-live/GlendaWilcinski-282-b230069b-f86d-49d0-a932-ddddc4e9e0c7_aac/chunklist.m3u8
-#EXTINF:-1, mode_bad
-https://edge11-gru.live.mmcdn.com/live-edge/amlst:mode_bad-sd-d9378beb9812f4d6f4899a9179c5c07a2b259d71036de69bd728a00dcb959e4f_trns_h264/chunklist_w1013805675_b10628000_t64RlBTOjYwLjA=.m3u8
+https://cam4-hls.xcdnpro.com/281/cam4-origin-live/nycole_new-281-04dcd5b4-5b5b-4c16-adf5-49527e87d54f_aac/chunklist.m3u8
+#EXTINF:-1, charlie_eusse
+https://edge10-bog.live.mmcdn.com/live-edge/amlst:charlie_eusse-sd-6404e60afd643a104e81e7a210cd9c1101eb3f333017bb8f10ee04f634b994c9_trns_h264/chunklist_w1539150754_b3096000_t64RlBTOjIwLjA=.m3u8
+#EXTINF:-1, yahaira_26
+https://edge16-gru.live.mmcdn.com/live-edge/amlst:yahaira_26-sd-61a0604c2fb36381bf0de8e3b442e8e3115ef68cecfc014a625457599ded55b3_trns_h264/chunklist_w289818405_b3096000_t64RlBTOjMwLjA=.m3u8
+#EXTINF:-1, Romiyeze5
+https://cam4-hls.xcdnpro.com/320/cam4-origin-live/Romiyeze5-320-dbf4c191-fda1-48fb-94ed-72f60e334ef3_aac/chunklist.m3u8
 #EXTINF:-1, sayluna
 https://edge5-gru.live.mmcdn.com/live-edge/amlst:sayluna-sd-a0fbc9ec5a719070b1c9082609c167db8dfef772861ae79d09227cf942f4cdc9_trns_h264/chunklist_w2098391279_b5128000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:-1, angely_sweet01

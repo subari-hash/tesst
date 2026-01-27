@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1, Nicole
+https://cam4-hls.xcdnpro.com/281/cam4-origin-live/nycole_new-281-477a7481-a4a2-4663-8d01-87fa5248dee0_aac/chunklist.m3u8
+#EXTINF:-1, Outro Canal
+https://outrolink.m3u8

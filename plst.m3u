@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Nicole
 https://cam4-hls.xcdnpro.com/282/cam4-origin-live/nycole_new-282-1fa5c8ce-ab45-4152-8731-2149a81c8f52_aac/chunklist.m3u8
-#EXTINF:-1, brazilians_doitbetter 4k
-https://edge11-gru.live.mmcdn.com/live-hls/amlst:brazilians_doitbetter-sd-e55f62c6174499ed72c5e24c669475ed6eef294168b1cfbfba5ec0acdbd033ca_trns_h264/chunklist_w168771819_b13192000_t64RlBTOjIzLjk3NjAyMzk3NjAyMzk3OA==.m3u8
+#EXTINF:-1, _lexie_hart
+https://edge17-gru.live.mmcdn.com/live-edge/amlst:_lexie_hart-sd-79390355c3e5524459691a518bdf36c49cf782a58ef65ffea2f8df3cd177dbc3_trns_h264/chunklist_w1719156738_b5128000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:-1, isabel_escorcia
 https://edge6-bog.live.mmcdn.com/live-edge/amlst:isabel_escorcia-sd-f2b52db65f5005bb27add4ceebe6fec1a6554bf591f54b7c079d18eca362d7a3_trns_h264/chunklist_w114440195_b5128000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:-1, FancyBroady

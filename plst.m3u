@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Nicole
-https://cam4-hls.xcdnpro.com/282/cam4-origin-live/nycole_new-282-1fa5c8ce-ab45-4152-8731-2149a81c8f52_aac/chunklist.m3u8
+#EXTINF:-1, nycole_new
+https://cam4-hls.xcdnpro.com/313/cam4-origin-live/nycole_new-313-6328a44c-5bf7-43fb-b4ea-1fda2d9b8b42_aac/chunklist.m3u8
 #EXTINF:-1, isabel_escorcia
 https://edge7-mia.live.mmcdn.com/live-edge/amlst:isabel_escorcia-sd-37ee053455fb2b1aa4c129ae16fb31b6abe7fb17d387b896057509d4491042ba_trns_h264/chunklist_w1551757598_b5128000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:-1, SelinaDelarge
